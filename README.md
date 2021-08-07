@@ -2,6 +2,8 @@
 
 An example of a Discord.js Bot Handler. Updated and Maintained by the Idiot's Happy Discord Community.
 
+![Happy](https://github.com/richardevcom/happy-discord-bot/raw/happy-main/animated.gif)
+
 Ages ago, Happy Discord Bot was actually a little bot I had on the official discord.js server.
 It helped me link to the d.js bot making guide I was building, with links.
 This bot grew into something that I could show new coders and bot makers, but
@@ -17,7 +19,7 @@ gave it a fresh coat of paint and grease, and here it is back in its full glory!
 - The node-gyp build tools. This is a pre-requisite for Enmap, but also for a **lot** of other modules. See [The Enmap Happy Discord](https://enmap.evie.codes/install#pre-requisites) for details and requirements for your OS. Just follow what's in the tabbed block only, then come back here!
 
 You also need your bot's token. This is obtained by creating an application in
-the [Developer section](https://discord.com/developers) of discord.com. Check the [first section of this page](https://anidiots.guide/getting-started/the-long-version.html)
+the [Developer section](https://discord.com/developers) of discord.com. Check the [first section of this page](https://#/getting-started/the-long-version.html)
 for more info.
 
 ## Intents
@@ -39,7 +41,7 @@ For more info about intents checkout the [official Discord.js guide page](https:
 
 In a command prompt in your projects folder (wherever that may be) run the following:
 
-`git clone https://github.com/An-Idiots-Happy Discord/happy-discord-bot.git`
+`git clone https://github.com/richardevcom/Happy Discord/happy-discord-bot.git`
 
 Once finished:
 
