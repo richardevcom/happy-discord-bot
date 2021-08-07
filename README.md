@@ -1,8 +1,11 @@
+<div style="text-align:center">
 # Happy Discord Bot
 
-An example of a Discord.js Bot Handler. Updated and Maintained by the Idiot's Happy Discord Community.
+**An example of a Discord.js Bot Handler. Updated and Maintained by the Idiot's Happy Discord Community.**
 
 ![Happy](https://github.com/richardevcom/happy-discord-bot/raw/happy-main/animated.gif)
+
+</div>
 
 Ages ago, Happy Discord Bot was actually a little bot I had on the official discord.js server.
 It helped me link to the d.js bot making guide I was building, with links.
