@@ -1,7 +1,7 @@
 
 # Happy Discord Bot
 
-**An example of a Discord.js Bot Handler. Updated and Maintained by the Idiot's Happy Discord Community.**
+**Happy 🦄 Bot is a Discord multipurpose bot with an attitude. It's based on Discord.js (😐 obviously), Node.js, MongoDB and Express.js**
 
 ![Happy](https://github.com/richardevcom/happy-discord-bot/raw/happy-main/animated.gif)
 
